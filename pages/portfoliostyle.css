@@ -5,6 +5,7 @@ h1 {
     justify-content: center;
     vertical-align: top;
     height: 100vh;
+    color: #FFFFFF;
 }
 
 body {
@@ -97,6 +98,10 @@ button {
     box-shadow: #000000 0 -6px 8px inset;
     transform: scale(1.125);
   }
+
+  li {
+    list-style: none;
+  }
   
   .button-74:active {
     transform: scale(1.025);
@@ -111,12 +116,12 @@ button {
 
   .center-container-new {
     position: relative;
-    top: auto;
+    top: -1000px;
     right: -500px;
   }
 
   .center-container-newest {
     position: relative;
-    top: -300px;
-    right: -500px;
+    top: -1000px;
+    right: -1000px;
   }
