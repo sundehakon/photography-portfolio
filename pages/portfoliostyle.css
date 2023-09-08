@@ -108,20 +108,4 @@ button {
       padding: .75rem 2rem;
     }
   }
-  
 
-.container {
-    height: 50px;
-    position: relative;
-    display: flex;
-  }
-  
-  .center {
-    display: flex;
-    margin: 0;
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    -ms-transform: translate(-50%, -50%);
-    transform: translate(-50%, -50%);
-  }
