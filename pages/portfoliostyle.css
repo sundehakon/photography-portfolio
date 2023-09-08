@@ -51,8 +51,8 @@ button {
 }
 
 .button-73:hover {
-  background-color: #FFC229;
-  box-shadow: #FF6314 0 -6px 8px inset;
+  background-color: #ffffff;
+  box-shadow: #000000 0 -6px 8px inset;
   transform: scale(1.125);
 }
 
@@ -94,7 +94,7 @@ button {
   }
   
   .button-74:hover {
-    background-color: rgb(180, 180, 180);
+    background-color: rgb(255, 255, 255);
     box-shadow: #000000 0 -6px 8px inset;
     transform: scale(1.125);
   }
@@ -117,11 +117,11 @@ button {
   .center-container-new {
     position: relative;
     top: -1000px;
-    right: -500px;
+    right: -400px;
   }
 
   .center-container-newest {
     position: relative;
     top: -1000px;
-    right: -1000px;
+    right: -900px;
   }
