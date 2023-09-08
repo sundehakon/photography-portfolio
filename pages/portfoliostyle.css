@@ -109,3 +109,14 @@ button {
     }
   }
 
+  .center-container-new {
+    position: relative;
+    top: auto;
+    right: -500px;
+  }
+
+  .center-container-newest {
+    position: relative;
+    top: -300px;
+    right: -500px;
+  }
