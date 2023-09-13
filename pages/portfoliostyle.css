@@ -131,3 +131,8 @@ button {
     top: 100px;
     right: 270px;
   }
+
+  p {
+    text-align: center;
+    vertical-align: text-top;
+  }
